@@ -1,0 +1,14 @@
+.about-inner{
+    width: 80%;
+    height: 80vh;
+    background: #242424;
+    color: #fff;
+    margin: auto;
+    text-align: center;
+    font-style: italic;
+    padding: 2%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+    box-shadow: 5px 50px 100px 15px #000;
+}
